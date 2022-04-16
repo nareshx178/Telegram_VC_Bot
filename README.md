@@ -62,7 +62,7 @@ play music.
 ## Docker
 
 ```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot && cd Telegram_VC_Bot
+$ git clone https://github.com/nareshx178/Telegram_VC_Bot && cd Telegram_VC_Bot
 $ cp sample.env .env
 ```
 Edit **.env** with your own values.
